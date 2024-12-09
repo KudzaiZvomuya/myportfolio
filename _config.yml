@@ -1,8 +1,4 @@
 title: IT Support Helpdesk
 logo: assets/img/headshot_circle.png
 theme:  jekyll-theme-freelancer
-layout: default
-modal-id: 1
-date: 2024-09-12
-img: cabin.png
-alt: image-alt
+
